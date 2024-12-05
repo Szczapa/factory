@@ -1,5 +1,5 @@
 package org.example.entity;
 
-public abstract class Animal {
+public interface IAnimal {
     public abstract void makeSound();
 }
